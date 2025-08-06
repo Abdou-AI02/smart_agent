@@ -1,0 +1,18 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific files and folders
+data/agent_memory.json
+data/integrity_checksums.json
+# Or to ignore the entire data folder:
+# data/
